@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calendar.WEB", "Calendar.WEB\Calendar.WEB.csproj", "{CF72FB5C-B76B-45B8-832E-025BA3C4CA3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calendar.DAL", "Calendar.DAL\Calendar.DAL.csproj", "{A7AFDA20-C1F8-4141-BF19-01767A435D42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calendar.BLL", "Calendar.BLL\Calendar.BLL.csproj", "{592B570D-1593-44FE-ADE1-E44209B46733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF72FB5C-B76B-45B8-832E-025BA3C4CA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF72FB5C-B76B-45B8-832E-025BA3C4CA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF72FB5C-B76B-45B8-832E-025BA3C4CA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF72FB5C-B76B-45B8-832E-025BA3C4CA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7AFDA20-C1F8-4141-BF19-01767A435D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7AFDA20-C1F8-4141-BF19-01767A435D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7AFDA20-C1F8-4141-BF19-01767A435D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7AFDA20-C1F8-4141-BF19-01767A435D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592B570D-1593-44FE-ADE1-E44209B46733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592B570D-1593-44FE-ADE1-E44209B46733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592B570D-1593-44FE-ADE1-E44209B46733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592B570D-1593-44FE-ADE1-E44209B46733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E5D92A1-1A85-4527-8DB6-2352E9BDCEE2}
+	EndGlobalSection
+EndGlobal
